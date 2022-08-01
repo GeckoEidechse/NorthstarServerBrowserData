@@ -1,3 +1,6 @@
 # Any JSON file in the repo is likely from extracting an archive
 # Given the large number of total JSON files, tracking them in git quickly becomes problematic
 *.json
+
+# Python virtual environments
+*env/
